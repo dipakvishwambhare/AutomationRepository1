@@ -3,14 +3,14 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.tutorialsninja.testcases.HomeTestNew">
+      <class name="com.tutorialsninja.testcases.DashboardTestNew">
         <methods>
-          <include name="ValidateLogin" invocation-numbers="0"/>
+          <include name="tearDown"/>
           <include name="setUp"/>
           <include name="loadConfig"/>
-          <include name="tearDown"/>
+          <include name="AcceptDashPopup"/>
         </methods>
-      </class> <!-- com.tutorialsninja.testcases.HomeTestNew -->
+      </class> <!-- com.tutorialsninja.testcases.DashboardTestNew -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
