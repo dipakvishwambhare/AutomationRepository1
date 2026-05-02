@@ -1,0 +1,22 @@
+2026-04-26 13:15:16 [main] INFO  com.tutorialsninja.utility.Log - =======================validateLogoTEST STARTS==========
+2026-04-26 13:15:16 [main] INFO  com.tutorialsninja.utility.Log - Thuis is log --> We are verifying logo - logo displayed on Homepage
+2026-04-26 13:15:16 [main] INFO  com.tutorialsninja.utility.Log - Thuis is log --> We have verified logo - Logo available 
+2026-04-29 07:32:07 [main] INFO  com.tutorialsninja.utility.Log - =======================validateLogoTEST STARTS==========
+2026-04-29 07:32:07 [main] INFO  com.tutorialsninja.utility.Log - Thuis is log --> We are verifying logo - logo displayed on Homepage
+2026-04-29 07:32:09 [main] INFO  com.tutorialsninja.utility.Log - Thuis is log --> We have verified logo - Logo available 
+2026-04-29 07:33:12 [main] INFO  com.tutorialsninja.utility.Log - =======================validateLogo TEST STARTS==========
+2026-04-29 07:33:12 [main] INFO  com.tutorialsninja.utility.Log - Thuis is log --> We are verifying logo - logo displayed on Homepage
+2026-04-29 07:33:12 [main] INFO  com.tutorialsninja.utility.Log - Thuis is log --> We have verified logo - Logo available 
+2026-04-29 07:34:39 [main] INFO  com.tutorialsninja.utility.Log - =======================validateLogo TEST STARTS==========
+2026-04-29 07:34:39 [main] INFO  com.tutorialsninja.utility.Log - This is log --> logo displayed on Homepage
+2026-04-29 07:34:39 [main] INFO  com.tutorialsninja.utility.Log - This is log --> Logo available 
+2026-04-29 07:34:39 [main] INFO  com.tutorialsninja.utility.Log - Logo Compared Successfully 
+2026-05-02 02:49:58 [main] INFO  com.tutorialsninja.utility.Log - ValidateLogin Test Started 
+2026-05-02 02:51:51 [main] INFO  com.tutorialsninja.utility.Log - ValidateLogin Test Started 
+2026-05-02 02:52:50 [main] INFO  com.tutorialsninja.utility.Log - ValidateLogin Test Started 
+2026-05-02 02:53:24 [main] INFO  com.tutorialsninja.utility.Log - ValidateLogin Test Started 
+2026-05-02 02:53:59 [main] INFO  com.tutorialsninja.utility.Log - ValidateLogin Test Started 
+2026-05-02 02:54:00 [main] INFO  com.tutorialsninja.utility.Log - ValidateLogin Test Ended
+2026-05-02 02:54:00 [main] INFO  com.tutorialsninja.utility.Log - dd
+2026-05-02 10:06:04 [main] INFO  com.tutorialsninja.utility.Log - ValidateLogin Test Started 
+2026-05-02 10:06:06 [main] INFO  com.tutorialsninja.utility.Log - ValidateLogin Test Ended
